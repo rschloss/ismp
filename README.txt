@@ -10,4 +10,12 @@ is maintained.  For more information, please contact:
 
 for more information.
 
+The license that applies to this material can be found at
+http://opensource.org/licenses/EPL-1.0 
+
+
+- - - - - - - - - - - - - - - - - - - - - - 
+Last Update to README.txt - March 18, 2013
+
+
  
